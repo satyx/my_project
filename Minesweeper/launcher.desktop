@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Name=Launcher
+Exec=/home/satyx/my_projects/Minesweeper/minesweeper.py
+Icon=/home/satyx/my_projects/Minesweeper/Icon.jpeg
+Type=Application

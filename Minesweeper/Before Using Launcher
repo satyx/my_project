@@ -1,0 +1,5 @@
+Before you use launcher please edit it.
+Change the Exec=[]/minesweeper.py to Exec=location(Location of this folder 'Minesweepr)/minesweeper.py
+similarly change Icon=[]/Icon.jpeg to location(Location of this folder 'Minesweepr)/Icon.jpeg
+
+Save the file
